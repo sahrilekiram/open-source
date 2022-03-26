@@ -69,10 +69,10 @@ f"""{Hj}
  	
  - author      : Romi Afrizal
  - instagram   : romz_xyz
- - facebook    : facebook.com/romi.afrizal.102
+ - facebook    : facebook.com/syahrilkacili12
  - fanspage    : facebook.com/100022086172556
- - whatsap     : +6282371648186
- - github      : github.com/Mark-Zuck
+ - whatsap     : +6285271970945
+ - github      : github.com/sahrilekiram
  - script name : bff-2
  - version     : 1.3
  - update pada : 21 Februari 2022
@@ -189,9 +189,9 @@ except KeyError:
 	IP = " "
 	CN = " "
 
-perekod = 'Shelly Scott.'
-fb_me = 'SHELLY.LOV4'
-github = 'ShellyScot.'
+perekod = 'SYAHRIL'
+fb_me = 'SyahrilVz'
+github = 'Sahrilekiram'
 
 def banner():
 	os.system('clear')
